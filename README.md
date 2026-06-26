@@ -26,9 +26,7 @@ const kavinda = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kavinda0140&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=9d4edd&text_color=ffffff&icon_color=9d4edd&hide_border=true" alt="Kavinda's GitHub Stats" height="200" />
-  
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Kavinda0140&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=9d4edd&text_color=ffffff&icon_color=9d4edd&hide_border=true&count_private=true" alt="Kavinda's GitHub Stats" height="200" />
 </p>
 
 <p align="center">
